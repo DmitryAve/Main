@@ -1,0 +1,5 @@
+1. Namber (Номер)
+2. Test name (Название теста)
+3. Initial conditions (Начальные условия)
+4. Description (Описание)
+5. Expected Result (Ожидаемый результат)
